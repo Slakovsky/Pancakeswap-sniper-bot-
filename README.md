@@ -17,4 +17,4 @@ This bot is one of the fastest bots . it is capable of making transactions in mi
 Usable for both Eth/Bsc Networks.
 # For full version please contact :
 -Gmail : 0cryptoali0@gmail.com .
--Telegram : @Dexs0bot .
+-Telegram : @skrt1231 .
