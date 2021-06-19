@@ -19,5 +19,8 @@ This bot is one of the fastest bots . it is capable of making transactions in mi
 # Networks :
 Usable for both Eth/Bsc Networks.
 # For full version please contact :
+After going to www.noasniper.com and following the buying steps. contact us on :
+
+
 -Gmail : 0cryptoali0@gmail.com .
 -Telegram : @skrt1231 .
