@@ -23,4 +23,4 @@ After going to www.noasniper.com and following the buying steps. contact us on :
 
 
 -Gmail : 0cryptoali0@gmail.com .
--Telegram : @skrt1231 .
+-Telegram : @dexs0bot .
