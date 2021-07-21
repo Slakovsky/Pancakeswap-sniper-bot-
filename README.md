@@ -1,5 +1,4 @@
 # Pancakeswap-sniper-bot-
-www.noasniper.com
 
 
 A  demo version of a fully operationnal pancakeswap sniper bot !
@@ -19,7 +18,7 @@ This bot is one of the fastest bots . it is capable of making transactions in mi
 # Networks :
 Usable for both Eth/Bsc Networks.
 # For full version please contact :
-After going to www.noasniper.com and following the buying steps. contact us on :
+Contact us on :
 
 
 -Gmail : 0cryptoali0@gmail.com .
