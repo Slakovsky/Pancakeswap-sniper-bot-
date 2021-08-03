@@ -1,6 +1,12 @@
+
 # Disclamer 
+
 This bot is made by me , and anyone who tries to sell it to you is a scammer , this bot cannot be used without a licence key attached to it that only i can generate ! 
 Accordingly the bot cannot be reselled for a "cheaper price" , if it's not me that is selling it . Do not buy it .
+
+# Important information 
+ 
+ The files i shared aren't enough to run the bot . Sent me a message or an e-mail and i will send the full bot file right away , the only part needed is the licence token that i can provide after the 1:1 trade is done .
 
 # Pancakeswap-sniper-bot-
 
