@@ -13,7 +13,7 @@ Accordingly the bot cannot be reselled for a "cheaper price" , if it's not me th
 
 A fully operationnal pancakeswap sniper bot !
 This include any functionality such as,
-User Avatar
+- User Avatar
 - Custom buy price
 - Custom sell price
 - Custom force sell (stop loss)
