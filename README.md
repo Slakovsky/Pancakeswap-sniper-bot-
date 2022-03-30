@@ -7,6 +7,7 @@ Accordingly the bot cannot be reselled for a "cheaper price" , if it's not me th
 # Important information 
  
  The files i shared aren't enough to run the bot . Sent me a message or an e-mail and i will send the full bot file right away , the only part needed is the licence token that i can provide after the 1:1 trade is done .
+ The bot is insanely fast , reliable , and cheaper than any bot in the market !
 
 # Pancakeswap-sniper-bot-
 
