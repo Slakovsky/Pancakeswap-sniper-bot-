@@ -1,4 +1,4 @@
-#What is this bot ?
+# What is this bot ?
 
 Introducing our state-of-the-art crypto trading bot. With its advanced algorithms and machine learning capabilities, our bot is able to analyze market data and make trades faster and more accurately than any human trader could.
 
