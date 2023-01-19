@@ -1,3 +1,12 @@
+#What is this bot ?
+
+Introducing our state-of-the-art crypto trading bot. With its advanced algorithms and machine learning capabilities, our bot is able to analyze market data and make trades faster and more accurately than any human trader could.
+
+But it's not just about speed and precision, our bot also has built-in risk management features to protect your investments and maximize your profits. Plus, it's fully customizable to fit your individual trading strategy.
+
+But don't just take my word for it, our bot has been rigorously tested and has a proven track record of success. In fact, our beta testers have seen an average return on investment of 20% in just the first month of using our bot.
+
+Don't miss out on this opportunity to take your trading to the next level. Try our crypto trading bot today and start seeing real results. 
 
 # Disclamer 
 
@@ -30,9 +39,7 @@ This bot is one of the fastest bots . it is capable of making transactions in mi
 ![image](https://user-images.githubusercontent.com/84985811/128026508-28c594d8-daee-4618-895a-7528af4ad7e9.png)
 # Networks :
 Usable for both Eth/Bsc Networks.
-# For the licence key :
+# To buy the licence key :
 Contact us on :
 
-
--Gmail : 0cryptoali0@gmail.com .
 -Telegram : @dexs0bot .
